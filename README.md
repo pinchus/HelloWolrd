@@ -1,2 +1,2 @@
 # HelloWolrd
-Just a hello world project from testing
+Just a hello world project for testing
