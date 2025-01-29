@@ -4,7 +4,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] [%(t
 
 
 def say_hello():
-    logging.info('Hello There')
+    logging.info('Reprise')
 
 
 if __name__ == '__main__':
