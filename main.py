@@ -4,7 +4,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] [%(t
 
 
 def say_hello():
-    logging.info('Reprise')
+    logging.info('new gitignore')
 
 
 if __name__ == '__main__':
